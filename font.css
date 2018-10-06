@@ -1,0 +1,18 @@
+﻿@font-face {
+  font-family: 'AltCarbBrasil';
+  src: url('AltCarbBrasil.eot');
+  src: url('AltCarbBrasil.woff2') format('woff2'),
+       url('AltCarbBrasil.woff') format('woff'),
+       url('AltCarbBrasil.ttf') format('truetype'),
+       url('AltCarbBrasil.svg#AltCarbBrasil') format('svg'),
+       url('AltCarbBrasil.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Linotext';
+  src: url('Linotext.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
