@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'AltCarbBrasil';
+  src: url('/Fontes/AltCarbBrasil/AltCarbBrasil.eot');
+  src: url('/Fontes/AltCarbBrasil/AltCarbBrasil.woff2') format('woff2'),
+       url('/Fontes/AltCarbBrasil/AltCarbBrasil.woff') format('woff'),
+       url('/Fontes/AltCarbBrasil/AltCarbBrasil.ttf') format('truetype'),
+       url('/Fontes/AltCarbBrasil/AltCarbBrasil.svg#AltCarbBrasil') format('svg'),
+       url('/Fontes/AltCarbBrasil/AltCarbBrasil.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Linotext';
+  src: url('/Fontes/Linotext/Linotext.eot');
+  src: url('/Fontes/Linotext/Linotext.woff2') format('woff2'),
+       url('/Fontes/Linotext/Linotext.woff') format('woff'),
+       url('/Fontes/Linotext/Linotext.ttf') format('truetype'),
+       url('/Fontes/Linotext/Linotext.svg#Linotext') format('svg'),
+       url('/Fontes/Linotext/Linotext.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
