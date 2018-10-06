@@ -1,0 +1,12 @@
+﻿@font-face {
+  font-family: 'Linotext';
+  src: url('Linotext.eot');
+  src: url('Linotext.woff2') format('woff2'),
+       url('Linotext.woff') format('woff'),
+       url('Linotext.ttf') format('truetype'),
+       url('Linotext.svg#Linotext') format('svg'),
+       url('Linotext.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
